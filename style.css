@@ -202,5 +202,14 @@ button{
     border: solid 2px white;
 }
 
+/*Styles for footer section*/
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
 
 
